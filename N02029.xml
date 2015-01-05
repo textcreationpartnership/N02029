@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:002411_0000_0FDB12BA06D09930"/>
-            <pb facs="tcp:002411_0001_0FDB12BB237F6318" rendition="simple:additions"/>
+            <pb facs="unknown:002411_0000_0FDB12BA06D09930"/>
+            <pb facs="unknown:002411_0001_0FDB12BB237F6318"
+                rendition="simple:additions"/>
             <p>THE Antient Teſtimony OF THE PEOPLE CALLED QUAKERS, REVIV'D: By the Order and Approbation of the YEARLY MEETING held for the Province of <hi>Pennſylvania</hi> and <hi>Jerſeys.</hi> 1722.</p>
             <p>
                <hi>PHILADELPHIA:</hi> Printed by <hi>Andrew Bradford</hi> at the Sign of the Bible in <hi>Second-ſtreet.</hi> 1723.</p>
@@ -121,7 +122,7 @@
       </front>
       <body>
          <div type="text">
-            <pb n="3" facs="tcp:002411_0002_0FDB3D5777B51BC0"/>
+            <pb n="3" facs="unknown:002411_0002_0FDB3D5777B51BC0"/>
             <head>THE Antient Teſtimony OF THE PEOPLE CALLED QUAKERS, REVIV'D, <hi>&amp;c.</hi>
             </head>
             <opener>
@@ -129,7 +130,7 @@
             </opener>
             <p>HAVING lately by an In<g ref="char:EOLhyphen"/>troduction to our <hi>Book of Diſcipline,</hi>
                <note place="margin">Introduc<g ref="char:EOLhyphen"/>tion.</note> given a ſhort Hint how our reſpective Meetings, for Church-Affairs, do conſiſt, and
-<pb n="4" facs="tcp:002411_0003_0FDB3D5900C32508"/>
+<pb n="4" facs="unknown:002411_0003_0FDB3D5900C32508"/>
 by what Authority, and Example, they came at firſt to be inſtituted, we think well at this Time, for the further Information, and Encourage<g ref="char:EOLhyphen"/>ment, of our Youth, and others, whoſe Faces are <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> towards <hi>Zi<g ref="char:EOLhyphen"/>on,</hi> to ſignify, that by living Expe<g ref="char:EOLhyphen"/>rience, we find, and can with good Conſcience declare and teſtify, that the ſame bleſſed holy Spirit which led us to believe and receive the Doctrines and Principles of Truth,<note place="margin">The bel Spirit <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -142,7 +143,7 @@ by what Authority, and Example, they came at firſt to be inſtituted, we think 
                <note place="margin">The Church defined. 1 Cor. 1.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.</note>FOR the Church of God is a Gathering of <hi>them that are ſanctifi<g ref="char:EOLhyphen"/>ed</hi> by the Word of Truth, <hi>called to be Saints,</hi> who are Members of the Body, even the true Church, whereof Jeſus Chriſt is the Head: But before any can come to be true
-<pb n="5" facs="tcp:002411_0004_0FDB3D5D00824B78"/>
+<pb n="5" facs="unknown:002411_0004_0FDB3D5D00824B78"/>
 Members of that Body, they muſt witneſs the fiery Baptiſm of the Holy Ghoſt,<note place="margin">Fiery Bap<g ref="char:EOLhyphen"/>tiſm.</note> to initiate them into this true Church; and as they fol<g ref="char:EOLhyphen"/>low Chriſt, in the Regeneration,<note place="margin">
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -154,7 +155,7 @@ Members of that Body, they muſt witneſs the fiery Baptiſm of the Holy Ghoſt,
                   </gap> 4.28.</note> for all are not A<g ref="char:EOLhyphen"/>poſtles, Elders, nor Babes; yet all who are truly gathered are Mem<g ref="char:EOLhyphen"/>bers, and as ſuch, have a Senſe and Feeling of the Life of the Body flowing from the Head Jeſus Chriſt. And whilſt they remain in that Senſe, acting <hi>with all Lowlineſs, Meekneſs,</hi>
                <note place="margin">Eph. 4.2.</note> 
                <hi>and long ſuffering, forbearing one a<g ref="char:EOLhyphen"/>nother in Love, endeavouring to keep true Unity of the Spirit in the Bond of Peace,</hi> they will be indued with right Judgment, ſeaſoned with pure
-<pb n="6" facs="tcp:002411_0005_0FDB3D5FF69D2F98"/>
+<pb n="6" facs="unknown:002411_0005_0FDB3D5FF69D2F98"/>
 Charity,<note place="margin">ver. 3.</note> and perfect Love, which is the Bond of our holy Communi<g ref="char:EOLhyphen"/>on, and Church-Fellowſhip.</p>
             <p>AND as we become thus initia<g ref="char:EOLhyphen"/>ted and qualified,<note place="margin">The Go<g ref="char:EOLhyphen"/>vernment of the Christian Church to be in per<g ref="char:EOLhyphen"/>fect <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>ty.</note> we ſhall be ena<g ref="char:EOLhyphen"/>bled to maintain the holy Order and Government above-mention'd in per<g ref="char:EOLhyphen"/>fect Unity; and according to the Degree of Faithfulneſs we are found in,<note place="margin">New Je<g ref="char:EOLhyphen"/>ruſalem o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -162,7 +163,7 @@ Charity,<note place="margin">ver. 3.</note> and perfect Love, which is the Bond 
                   <hi>ver.</hi> 12. The Wall and Foun<g ref="char:EOLhyphen"/>dations thereof.</note> 
                <hi>had a Wall great and high,</hi> ſignifying the Excellency of God's Power encompaſſing thoſe that are within this Church, and keeping out all that would invade or hurt it:<note place="margin">ver. 14.</note> 
                <hi>And this Wall had twelve Foundations, and on them the Names of the twelve Apoſtles of the Lamb;</hi> which denotes that the Doctrines of the Apoſtles are to be embraced, and thoſe that are not founded upon
-<pb n="7" facs="tcp:002411_0006_0FDB3D620AD82368"/>
+<pb n="7" facs="unknown:002411_0006_0FDB3D620AD82368"/>
 them to be rejected and ſhut out of this holy City which had but one Street, and that is the Way to the Tree of Life, where the true Mem<g ref="char:EOLhyphen"/>bers of the Church of Chriſt are travelling in the Unity of his bleſ<g ref="char:EOLhyphen"/>ſed Spirit;<note place="margin">Act 432.</note> and ſo they become <hi>of one Heart, and of one Soul,</hi> as the Multitude of them that believed in the Apoſtle's Days were, in which precious Unity we ſhall feel the Life of Righteouſneſs.</p>
             <p>AND as we come to feel this Life,<note place="margin">Glory of this <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -174,7 +175,7 @@ them to be rejected and ſhut out of this holy City which had but one Street, an
                   <hi>Rev.</hi> 21 1. Again<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t Diviſion in the Church.</note> that is, we ſhall not degenerate into that outragious and
-<pb n="8" facs="tcp:002411_0007_0FDB3D63C3F1C7E8"/>
+<pb n="8" facs="unknown:002411_0007_0FDB3D63C3F1C7E8"/>
 dividing Principle that has at Times prevailed in ſome that walked a<g ref="char:EOLhyphen"/>mongſt us to manifeſt they were not of us; <note place="margin">Rom. 12.1.</note> but ſhall <hi>preſent our Bo<g ref="char:EOLhyphen"/>dies a living Sacrifice, holy, accepta<g ref="char:EOLhyphen"/>ble unto God, which is our reaſona<g ref="char:EOLhyphen"/>ble Service, and not be conformed to this World, but transformed by the renewing of our Mind, proving what is that good, acceptable, and per<g ref="char:EOLhyphen"/>fect Will of God,</hi>
                <note place="margin">ver. 3.</note> and then none a<g ref="char:EOLhyphen"/>mong us <hi>will think of himſelf more highly than he ought <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -192,7 +193,7 @@ dividing Principle that has at Times prevailed in ſome that walked a<g ref="cha
                      <desc>•</desc>
                   </gap>eweth Mercy with Chearful<g ref="char:EOLhyphen"/>neſs;</hi>
                <note place="margin">Rom. 12.9.</note> our <hi>Love</hi> will be <hi>without Diſ<g ref="char:EOLhyphen"/>ſimulation,
-<pb n="9" facs="tcp:002411_0008_0FDB3D6688F56178"/>
+<pb n="9" facs="unknown:002411_0008_0FDB3D6688F56178"/>
 abhorring that which is evil, cleaving to that which is good, kindly affectioned one towards ano<g ref="char:EOLhyphen"/>ther with brotherly Love,</hi>
                <note place="margin">ver. 10,</note> 
                <hi>in Honour preferring one another,</hi>
@@ -210,7 +211,7 @@ abhorring that which is evil, cleaving to that which is good, kindly affectioned
                   </gap>ling;</hi>
                <note place="margin">Rom. 12.18. ver. 21.</note> 
                <hi>but overcome Evil with Good; and as much as li<g ref="char:EOLhyphen"/>eth in us, live peaceably with all Men, having the ſame Love, doing nothing thro' Strife or vain Glory,
-<pb n="10" facs="tcp:002411_0009_0FDB3D67F510A7E0"/>
+<pb n="10" facs="unknown:002411_0009_0FDB3D67F510A7E0"/>
 but in Lowlineſs of Mind,</hi>
                <note place="margin">Phil. 2.2. ver. 3.</note> 
                <hi>each eſteem<g ref="char:EOLhyphen"/>ing the other better than themſelves;</hi> the ſtrongeſt and beſt gifted, not deſpiſing the meaneſt, nor they en<g ref="char:EOLhyphen"/>vying the ſtrongeſt; but all in their reſpective Stations and Degrees will <hi>walk by the ſame Rule,</hi>
@@ -236,7 +237,7 @@ but in Lowlineſs of Mind,</hi>
                <hi>is in all Goodneſs, Righteouſneſs and Truth, Love,</hi> 
                <note place="margin">The Fruit of the Spi<g ref="char:EOLhyphen"/>rit.</note> 
                <hi>Joy, Peace, Long-ſuffering, Gentleneſs, Faith, Meekneſs, Tempe<g ref="char:EOLhyphen"/>rance,
-<pb n="11" facs="tcp:002411_0010_0FDB3D69C8D01A80"/>
+<pb n="11" facs="unknown:002411_0010_0FDB3D69C8D01A80"/>
 againſt ſuch there is no Law;</hi>
                <note place="margin">
                   <hi>Gal.</hi> 
@@ -275,7 +276,7 @@ againſt ſuch there is no Law;</hi>
                   </gap>velling and ſuch like, and they that do ſuch things ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>all not inherit the Kingdom of God</hi> And the ſame Apoſtle, when he wrote to the Churches of <hi>Rome, Corinth, Epheſus,</hi> and <hi>Coloſs,</hi> teſti<g ref="char:EOLhyphen"/>fying
-<pb n="12" facs="tcp:002411_0011_0FDB3D6AF6E062B8"/>
+<pb n="12" facs="unknown:002411_0011_0FDB3D6AF6E062B8"/>
 againſt the like Evils,<note place="margin">Eph. 5.4, 5.</note> and againſt <hi>fooliſh Talking and Jeſting,</hi> he added, that <hi>no Whoremonger, nor unclean Perſon,</hi>
                <note place="margin">Coloſ. 3.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -298,7 +299,7 @@ againſt the like Evils,<note place="margin">Eph. 5.4, 5.</note> and againſt <h
                <hi>that ye put off concerning the former Converſation the old Man which is corrupt, accor<g ref="char:EOLhyphen"/>ding to deceitful Luſts;</hi>
                <note place="margin">23,</note> 
                <hi>and be re<g ref="char:EOLhyphen"/>newed in the Spirit of your Mind; and that ye put on the New Man, which
-<pb n="13" facs="tcp:002411_0012_0FDB3D6F0A02BE80"/>
+<pb n="13" facs="unknown:002411_0012_0FDB3D6F0A02BE80"/>
 after God is created in Righteouſneſs and true Holineſs;</hi>
                <note place="margin">24,</note> 
                <hi>wherefore putting away Lying,</hi>
@@ -322,7 +323,7 @@ after God is created in Righteouſneſs and true Holineſs;</hi>
                <hi>Ha<g ref="char:EOLhyphen"/>ters of God, deſpightful, proud, Boa<g ref="char:EOLhyphen"/>ſters, Inventers of evil Things, diſo<g ref="char:EOLhyphen"/>bedient to Parents;</hi>
                <note place="margin">ver. 31.</note> without Under<g ref="char:EOLhyphen"/>ſtanding, Covenant-Breakers, with<g ref="char:EOLhyphen"/>out natural Affection, implacable, un<g ref="char:EOLhyphen"/>merciful,<note place="margin">ver. 18.</note> 
                <hi>and ſuch as held the Truth in Unrighteouſneſs,</hi> he ſaith, <hi>Know ye</hi>
-               <pb n="14" facs="tcp:002411_0013_0FDB3D70451B01C0"/>
+               <pb n="14" facs="unknown:002411_0013_0FDB3D70451B01C0"/>
                <note place="margin">1 Cor. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -358,25 +359,25 @@ after God is created in Righteouſneſs and true Holineſs;</hi>
                      <desc>•</desc>
                   </gap>
                </note> who profeſſed the Truth,
-<pb n="15" facs="tcp:002411_0014_0FDB3D71C6FD6DC0"/>
+<pb n="15" facs="unknown:002411_0014_0FDB3D71C6FD6DC0"/>
                <note place="margin">3 John 1.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.</note> and ſeemed in Meaſure redeemed out of the Evils of this World,<note place="margin">Gal. 2.4.</note> fell <note place="margin">1 Cor. 1.12.</note> into theſe and the like Enormities which the Apoſtles teſtified againſt;<note place="margin">5.1.</note> and ſome others who were then ga<g ref="char:EOLhyphen"/>thered into the Belief of the Princi<g ref="char:EOLhyphen"/>ples and Doctrines of the Goſpel of Chriſt, fell from thoſe Principles as ſome have done in our Day; in which Caſes ſuch as ſtood firm in the Faith, had Power by the Spirit of God (after Chriſtian Endeavours to convince and reclaim thoſe Back<g ref="char:EOLhyphen"/>ſliders) to exclude them from our ſpiritual Fellowſhip and Communi<g ref="char:EOLhyphen"/>on, as alſo the Privileges they had as Fellow-Members, which Power, we know by good Experience, con<g ref="char:EOLhyphen"/>tinues with us in carrying on the Diſcipline of the Church in the Spirit of Meekneſs.</p>
             <p>THEREFORE, we ſay,<note place="margin">Power in the Church to <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>.</note> as our Brethren have heretofore con<g ref="char:EOLhyphen"/>cluded, that where any in the Church of God pretending Conſcience or Revelation, ſhall ariſe to teach and practiſe (however inſignificant or
-<pb n="16" facs="tcp:002411_0015_0FDB3D75297AD1F8"/>
+<pb n="16" facs="unknown:002411_0015_0FDB3D75297AD1F8"/>
 ſmall in themſelves) whether Princi<g ref="char:EOLhyphen"/>ples or Practice, yet if they be con<g ref="char:EOLhyphen"/>trary to ſuch as are already received as true, and confirmed by God's Spirit in the Hearts of his Saints; and that the introducing of theſe Things tend to bring Reproach up<g ref="char:EOLhyphen"/>on the Truth, as ſuch as are not edifying in themſelves, and ſo ſtum<g ref="char:EOLhyphen"/>ble the weak; thoſe who have a true and right Diſcerning, may in and by the Power of God authori<g ref="char:EOLhyphen"/>ſing them (and no otherwiſe) con<g ref="char:EOLhyphen"/>demn and judge ſuch Things; and their ſo doing will be obligatory upon all the Members that have a true Senſe, becauſe they will ſee it to be ſo, and ſubmit to it.</p>
             <p>
                <note place="margin">Innovati<g ref="char:EOLhyphen"/>ons.</note>WHATSOEVER Innovati<g ref="char:EOLhyphen"/>on, Difference, or diverſe Appea<g ref="char:EOLhyphen"/>rance, whether in Doctrine or Prac<g ref="char:EOLhyphen"/>tice, proceedeth not from the pure Moving of the Spirit of God, or is not done out of pure Tenderneſs of Conſcience, but either from that which being pufft up affecteth Sin<g ref="char:EOLhyphen"/>gularity, and there-through would
-<pb n="17" facs="tcp:002411_0016_0FDB3D763B4F5980"/>
+<pb n="17" facs="unknown:002411_0016_0FDB3D763B4F5980"/>
 be obſerved, commended and exalt<g ref="char:EOLhyphen"/>ed, or from that which the Malig<g ref="char:EOLhyphen"/>nity of ſome Humours and natural Tempers, which will be contradic<g ref="char:EOLhyphen"/>ting without Cauſe, and ſecretly begetting Diviſions, Animoſities and Emulations, by which the Unity and unfeigned Love of the Brethren is leſſen'd or rent, all Things proceed<g ref="char:EOLhyphen"/>ing from this Root and Spirit, how<g ref="char:EOLhyphen"/>ever little they may be ſuppoſed to be of themſelves, are to be guarded againſt, withſtood and denied as hurtful to the true Church's Peace and Hindrance of the Proſperity of Truth.</p>
             <p>
                <note place="margin">Things that ſome deem Law<g ref="char:EOLhyphen"/>ful, are not ſo to us.</note>AND now we come to take Notice of ſome Things that others profeſſing Chriſtianity, deem law<g ref="char:EOLhyphen"/>ful, which are not ſo to us, as ſwearing and fighting,<note place="margin">Swearing.</note> or going to War when required by lawful Au<g ref="char:EOLhyphen"/>thority. The firſt we teſtify againſt, becauſe it is contrary to the expreſs Command of our bleſſed Saviour, who ſaid,<note place="margin">Mat.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.3.</note> 
                <hi>Swear not at all;</hi> and the Apoſtle <hi>James</hi> writing to the
-<pb n="18" facs="tcp:002411_0017_0FDB3D77C64D1150"/>
+<pb n="18" facs="unknown:002411_0017_0FDB3D77C64D1150"/>
 twelve ſcatter'd Tri<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>s, who, ac<g ref="char:EOLhyphen"/>cording to their Law, were to <hi>ſwear by the Lord, and perform the<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -386,7 +387,7 @@ twelve ſcatter'd Tri<gap reason="illegible" resp="#PDCC" extent="2 letters">
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>eſts, Fallacies, Strife and Perfidies
-<pb n="19" facs="tcp:002411_0018_0FDB3D793620FEA0"/>
+<pb n="19" facs="unknown:002411_0018_0FDB3D793620FEA0"/>
 againſt which Oaths were at firſt introduced as a Remedy, and are ſtill alledged to be a Security.</p>
             <p>AND ſince we muſt not <hi>ſwear at all,</hi>
                <note place="margin">Admin<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -406,7 +407,7 @@ againſt which Oaths were at firſt introduced as a Remedy, and are ſtill alled
                <note place="margin">Rom. 18.19, 20.</note> but <hi>if our Enemy hunger, we muſt feed him; if he thirſt give him Drink:</hi> But it is evident,<note place="margin">2 Cor. 10.3.</note> that War teacheth to hate, famiſh and deſtroy them. The ſame Apoſtle declares, that we war not after the Fleſh,<note place="margin">Eph. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.12.</note> nor <hi>wreſtle a<g ref="char:EOLhyphen"/>gainſt Fleſh and Blood:</hi> But outward War is according to the Fleſh, and
-<pb n="20" facs="tcp:002411_0019_0FDB3D7D84472760"/>
+<pb n="20" facs="unknown:002411_0019_0FDB3D7D84472760"/>
 againſt Fleſh and Blood, for the ſhedding of the one, and deſtroying of the other. The ſame Apoſtle ſaith further,<note place="margin">2 Cor. 10.4.</note> 
                <hi>The Weapons of our Warfare are not carnal, but mighty thro' God;</hi> ſo are not the Weapons of outward Warfare; and the Apo<g ref="char:EOLhyphen"/>ſtle <hi>James</hi> teſtifies,<note place="margin">
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -414,7 +415,7 @@ againſt Fleſh and Blood, for the ſhedding of the one, and deſtroying of the 
                   </gap>m 4.1.</note> that <hi>Wars and Fightings come from Luſts,</hi> and thoſe Luſts war in the Members of car<g ref="char:EOLhyphen"/>nal Men: But ſuch as have cruci<g ref="char:EOLhyphen"/>fied the Fleſh with its Affections and Luſts, cannot indulge them by waging War; nor can the Servants of Chriſt fight,<note place="margin">John 18.36.</note> becauſe his <hi>Kingdom is not of this World.</hi> So that when <hi>Peter</hi> uſed the Sword, his Lord and Maſter reproved him, ſaying, <hi>Put up again thy Sword into his Place, for all they that take up the Sword, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>all periſh with the Sword.</hi> We are not without ſorrowful Inſtan<g ref="char:EOLhyphen"/>ces of ſome that have been educa<g ref="char:EOLhyphen"/>ted in the peaceable Principle here aſſerted; and yet becauſe ſo far de<g ref="char:EOLhyphen"/>generated from it as to uſe the Sword; and they periſhed by the
-<pb n="21" facs="tcp:002411_0020_0FDB3D7F366942A0"/>
+<pb n="21" facs="unknown:002411_0020_0FDB3D7F366942A0"/>
 Sword; which is herementioned on<g ref="char:EOLhyphen"/>ly as a Warning to thoſe who by purſuing the Vanity of their Minds, may happen to ſtray out of the pure Path of Peace, and fall into the like Inconveniences.</p>
             <p>BY all which it may appear,<note place="margin">Chriſt's Banner.</note> that Jeſus Chriſt the Captain of our Salvation calls thoſe that lift them<g ref="char:EOLhyphen"/>ſelves under his Banner, to bear his Croſs, and abide in Humility, Pati<g ref="char:EOLhyphen"/>ence, Simplicity and true Charity, and not any Ways indulge the leaſt Thought of Revenge,<note place="margin">Againſt Revenge. <hi>Rom.</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -423,12 +424,12 @@ Sword; which is herementioned on<g ref="char:EOLhyphen"/>ly as a Warning to tho�
             <p>AND altho' theſe Teſtimonies of Chriſt and his Apoſtles are <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>o clear againſt Wars and Fightings, yet our elder Brethren, and ſome of
-<pb n="22" facs="tcp:002411_0021_0FDB3D80EFB706E0"/>
+<pb n="22" facs="unknown:002411_0021_0FDB3D80EFB706E0"/>
 us formerly,<note place="margin">Sufferings of Friends.</note> ſuffered much becauſe we could not ourſelves bear Arms, nor ſend others in our Places, nor pay for buying of Drums and other military Attire, as alſo for not ob<g ref="char:EOLhyphen"/>ſerving thoſe Days which were ap<g ref="char:EOLhyphen"/>pointed to crave a Bleſſing for Suc<g ref="char:EOLhyphen"/>ceſs to the Arms of the Nation where we lived, or to give Thanks for the Victories acquired by the Effuſion of much Blood.</p>
             <p>THERE are other Things,<note place="margin">Flattering Titles, Bowings, <hi>&amp;c.</hi>
                </note> as giving flattering Titles, uncovering the Head, and cringing to Men, calling the Days and Months by the Heathen Names, and drinking one to another, drinking Healths, Rio<g ref="char:EOLhyphen"/>tings,<note place="margin">
                   <hi>Games,</hi> &amp;c.</note> Banquetings, and uſing Games, Sports, Plays, Revels, Comedies, and ſuch like (which many of the Profeſſors of Chriſtianity allow) are not at all lawful to us, becauſe they not only waſt that Time which is but lent us, and ſhould be ſpent to the Honour of God, but alſo natu<g ref="char:EOLhyphen"/>rally draw Men from God's Fear; and we know the Teſtimony of the
-<pb n="23" facs="tcp:002411_0022_0FDB3D854E5AC630"/>
+<pb n="23" facs="unknown:002411_0022_0FDB3D854E5AC630"/>
 Spirit, of Truth is againſt them,<note place="margin">R B. 548.</note> and the inward Convictions of Light and Grace in our own Hearts, <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> prevailed upon us to lay them <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -463,18 +464,18 @@ Spirit, of Truth is againſt them,<note place="margin">R B. 548.</note> and the 
                   <desc>〈◊〉</desc>
                </gap> Muſick, Dancing, Wreſt<g ref="char:EOLhyphen"/>ling, running of Races, and the like, counting it not inconſiſtent with Religion ſo to do, which was ſo a<g ref="char:EOLhyphen"/>bominable in the Sight of God that he was pleaſed to raiſe a holy Zeal in our elder Brethren againſt thoſe ungodly Practices,<note place="margin">Drinking Healths, <hi>&amp;c.</hi>
                </note> and againſt drink<g ref="char:EOLhyphen"/>ing Healths, Banquetings and rio<g ref="char:EOLhyphen"/>tous Living, which not only pro<g ref="char:EOLhyphen"/>voke People to Exceſs of Eating, Drinking, Laughter, fooliſh Talk<g ref="char:EOLhyphen"/>ing, Jeſting, and ſuch like Things that are ſinful, and in no wiſe be<g ref="char:EOLhyphen"/>coming the Solidity, Gravity and Sobriety which Men profeſſing Chriſtianity ought to be adorned with; but it is obvious, that ſuch
-<pb n="24" facs="tcp:002411_0023_0FDB3D8733AC4580"/>
+<pb n="24" facs="unknown:002411_0023_0FDB3D8733AC4580"/>
 as run into thoſe Exceſſes, bring a Scorn and Slight upon their Profeſ<g ref="char:EOLhyphen"/>ſion, to the Grief of the honeſt hearted, and not only ſo, but they lay themſelves open to commit all ſuch Vices as the Devil may tempt them to.</p>
             <p>AND our conſtant Teſtimony has been,<note place="margin">Scripture-Language.</note> and is againſt ſaying <hi>YOU</hi> to a ſingle Perſon, not only becauſe it is contrary to the true Proprie<g ref="char:EOLhyphen"/>ty of Speech and Scripture-Lan<g ref="char:EOLhyphen"/>guage,<note place="margin">Arrogance.</note> but it gratifies that proud <hi>Haman</hi>-like Spirit which poſſeſſes the Heart of ſuch who would arro<g ref="char:EOLhyphen"/>gate to themſelves the Homage and Reverence due to God, requiring to be addreſſed in ſuch Language as they judge more honourable than that which they beſtow upon the Almighty.</p>
             <p>AND becauſe our ancient <hi>Friends</hi> and Elders in the Truth could not join with that Spirit,<note place="margin">Reſpect to Men.</note> they ſuffered deeply for their innocent Teſtimo<g ref="char:EOLhyphen"/>ny againſt it, and yet upon all Oc<g ref="char:EOLhyphen"/>caſions ſhewed the decent Reſpect
-<pb n="25" facs="tcp:002411_0024_0FDB3D88A0C4D6F8"/>
+<pb n="25" facs="unknown:002411_0024_0FDB3D88A0C4D6F8"/>
 due to Men and maintained in the Wiſdom of God,<note place="margin">Ho<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap> to Superiors.</note> the true Honour and Obedience due from Subjects to their Prince, Inferiors to Superiors, from Children to Parents, and Ser<g ref="char:EOLhyphen"/>vants to Maſters, whereby the mu<g ref="char:EOLhyphen"/>tual Relations betwixt thoſe diffe<g ref="char:EOLhyphen"/>rent Ranks and Degrees of Men have been and are aſſerted and en<g ref="char:EOLhyphen"/>deavoured to be eſtabliſhed after the Manner of our Saviour and his A<g ref="char:EOLhyphen"/>poſtles were pleaſed to direct.</p>
             <p>NOW before we go further, we think proper to give ſome Ac<g ref="char:EOLhyphen"/>counts of our Principles and Practi<g ref="char:EOLhyphen"/>ces concerning thoſe mutual Relati<g ref="char:EOLhyphen"/>ons or Ranks of Men.<note place="margin">Of Kings and Ru<g ref="char:EOLhyphen"/>lers. <hi>Rom.</hi> 13.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.</note> And firſt of Kings, Rulers, and Magiſtrates, as it is our Belief, that the Powers and Government we live under are of the Lord, ſo we acknowledge that Fidelity and Subjection is due to thoſe who are in Authority over us, expecting only the Benefit of thoſe good Laws which are deemed our Birthright as <hi>Engliſh</hi> Subjects, and not the Protection by Gun and
-<pb n="26" facs="tcp:002411_0025_0FDB3D8BF3A680F0"/>
+<pb n="26" facs="unknown:002411_0025_0FDB3D8BF3A680F0"/>
 Sword which others make the Terms of their Allegiance: and we faith<g ref="char:EOLhyphen"/>fully own,<note place="margin">Magiſtra<g ref="char:EOLhyphen"/>cy. <hi>Rom.</hi> 13 2. 1 <hi>Tim</hi> 5.17.</note> that Magiſtracy is an Ordinance of God, and <hi>thoſe who rule well are worthy of double Ho<g ref="char:EOLhyphen"/>nour,</hi> and deſerve to be really valu<g ref="char:EOLhyphen"/>ed and much eſteemed, not by gi<g ref="char:EOLhyphen"/>ving them vain Appellations or flat<g ref="char:EOLhyphen"/>tering Titles, nor by bowing the Body, or uncovering the Head, nor by feigned Words called Compl<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
@@ -489,13 +490,13 @@ Sword which others make the Terms of their Allegiance: and we faith<g ref="char:
                      <desc>•</desc>
                   </gap>.</note> 
                <hi>Prayer, Interceſ<g ref="char:EOLhyphen"/>ſion, and giving of Thanks for Kings, and all that are in Anthority:</hi> And we have not been wanting in our reſpective Places and Stations, to put People in Mind, as the Apoſtle exhorted,<note place="margin">Tit. 3.1.</note> to be <hi>ſubjected to Princi<g ref="char:EOLhyphen"/>palities
-<pb n="27" facs="tcp:002411_0026_0FDB3D8FC36B59D8"/>
+<pb n="27" facs="unknown:002411_0026_0FDB3D8FC36B59D8"/>
 and Powers, to obey Magi<g ref="char:EOLhyphen"/>ſtrates,</hi> and <hi>ſubmit to every Ordinance of Man for the Lord's Sake,</hi>
                <note place="margin">2 Pet. 2.13, 14.</note> 
                <hi>whe<g ref="char:EOLhyphen"/>ther it be to the King as ſupreme, or unto Governors as unto them that are ſent by him for the Puniſhment of Evil-Doers, and Praiſe of them that do well;</hi>
                <note place="margin">Rom. 13.4.</note> for ſo the Magiſtrates <hi>are Miniſters of God to us for Good, bear<g ref="char:EOLhyphen"/>ing not the Sword in vain, being Revengers to execute Wrath upon him that doth Evil:</hi> and for this Cauſe pay we Tribute alſo, for they are God's Miniſters attending continu<g ref="char:EOLhyphen"/>ally on this very Thing.</p>
             <p>YET when Laws and Statutes were made,<note place="margin">Laws a<g ref="char:EOLhyphen"/>gainſt Con<g ref="char:EOLhyphen"/>ſcience.</note> requiring certain Con<g ref="char:EOLhyphen"/>formities which for Conſcience Sake could not be comply'd with by our faithful Friends,<note place="margin">G. F. II. 291.</note> ſome Magiſtrates, inſtead of the Sword of Juſtice, took up the Sword of Perſecution againſt them; nevertheleſs they did not reſiſt, but patiently ſuffered the ſpoiling of their Goods, grievous Im<g ref="char:EOLhyphen"/>priſonments, Scourging and Baniſh<g ref="char:EOLhyphen"/>ment from their tender Families,
-<pb n="28" facs="tcp:002411_0027_0FDB3D91A12E2FB8"/>
+<pb n="28" facs="unknown:002411_0027_0FDB3D91A12E2FB8"/>
 Friends and Relations, chooſing, as the holy Apoſtles did in the like Caſe,<note place="margin">
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -516,7 +517,7 @@ Friends and Relations, chooſing, as the holy Apoſtles did in the like Caſe,<n
                   </gap>wing this, that the Law is not made for the righteous Man, but for the lawleſs and diſobedient, for the ungodly and for Sinners, for unholy and profane, for Murderers of Fathers, and Murderers of Mo<g ref="char:EOLhyphen"/>thers,</hi>
                <note place="margin">10.</note> 
                <hi>for Man-ſlayers, for Whore<g ref="char:EOLhyphen"/>mongers, for them that defile them<g ref="char:EOLhyphen"/>ſelves with Mankind, for Men-ſteal<g ref="char:EOLhyphen"/>ers,
-<pb n="29" facs="tcp:002411_0028_0FDB3D92C7E0C4F8"/>
+<pb n="29" facs="unknown:002411_0028_0FDB3D92C7E0C4F8"/>
 for Liars, for perjured Perſons, and for any other Thing that is con<g ref="char:EOLhyphen"/>trary to ſound Doctrine.</hi>
             </p>
             <p>
@@ -529,7 +530,7 @@ for Liars, for perjured Perſons, and for any other Thing that is con<g ref="cha
                <q>many of whom judged the Life, Grace, and Spirit of God no eſſen<g ref="char:EOLhyphen"/>tial Part of their Miniſtry, nor any neceſſary Qualification of their Miniſters, which Judgment of theirs being againſt the Law of the Spirit of Life, and the divine Inſtitution of our Saviour's Spi<g ref="char:EOLhyphen"/>ritual Worſhip, muſt needs be contrary to ſound Doctrine.</q>
             </p>
             <p>NEVERTHELESS to up<g ref="char:EOLhyphen"/>hold their human Miniſtry,<note place="margin">Proviſion for Mini<g ref="char:EOLhyphen"/>sters.</note> ample Proviſion was made for Maintenance of their Miniſters; and to extort it from ſuch as could not for Conſci<g ref="char:EOLhyphen"/>ence Sake, own, hear, or receive
-<pb n="30" facs="tcp:002411_0029_0FDB3D9442681E90"/>
+<pb n="30" facs="unknown:002411_0029_0FDB3D9442681E90"/>
 their Miniſtry. But when it plea<g ref="char:EOLhyphen"/>ſed God to diſcover to our Friends and Elders,<note place="margin">John 4.23, 24.</note> that <hi>they who worſhip the Father, moſt worſhip him in Spi<g ref="char:EOLhyphen"/>rit and in Truth,</hi> and be brought to the true Unity thereof, and not in<g ref="char:EOLhyphen"/>to a meer outward Conformity, they were ſoon led to embrace the antient,<note place="margin">
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
@@ -538,7 +539,7 @@ their Miniſtry. But when it plea<g ref="char:EOLhyphen"/>ſed God to diſcover 
                   </gap>.</note> feeling a peculiar Unction from the holy One, to prepare and ſupply them in the Work of this Miniſtry.<note place="margin">1 Pet 4.10, 11.</note> And <hi>as every one ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> re<g ref="char:EOLhyphen"/>ceived the Gift, even ſo they miniſtred one to another as good Stewards of the manifold Grace of God; approving themſelves in much Patience, in Af<g ref="char:EOLhyphen"/>flictions,
-<pb n="31" facs="tcp:002411_0030_0FDB3D97C8042F60"/>
+<pb n="31" facs="unknown:002411_0030_0FDB3D97C8042F60"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, in Neceſſity,</hi>
@@ -578,7 +579,7 @@ their Miniſtry. But when it plea<g ref="char:EOLhyphen"/>ſed God to diſcover 
                   </gap> 6.11. <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> 3.5.</note> and <hi>pre<g ref="char:EOLhyphen"/>pare War againſt ſuch as put not into their Months;</hi> and ſo they have al<g ref="char:EOLhyphen"/>ways done. And becauſe our Friends could not in good Conſcience contribute to ſupport their falſe Miniſtry, <note place="margin">G. F. II. 192. Perſecuti<g ref="char:EOLhyphen"/>on.</note> they ſtirr'd up Perſecu<g ref="char:EOLhyphen"/>tion, and turned the Magiſtrate's Sword backward, and the Laws a<g ref="char:EOLhyphen"/>gainſt the righteous, which was al<g ref="char:EOLhyphen"/>ſo contrary to found Doctrine, as well as the true Uſe and End of
-<pb n="32" facs="tcp:002411_0031_0FDB3D98BA949118"/>
+<pb n="32" facs="unknown:002411_0031_0FDB3D98BA949118"/>
 good Laws<note place="margin">Royal Law. <hi>Jam.</hi> 
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -590,7 +591,7 @@ good Laws<note place="margin">Royal Law. <hi>Jam.</hi>
             </p>
             <p>SO, <hi>Dear Frinds,</hi>
                <note place="margin">Carnal Sword differs from the Sword of Juſtice.</note> having by the foregoing Hints briefly obſer<g ref="char:EOLhyphen"/>ved how the material or carnal Sword, invented by Men to execute their Wrath and Revenge upon their Fellow-Creatures, differs from the Sword of Juſtice <hi>ordained of God for Puniſhment of evil Doers,
-<pb n="33" facs="tcp:002411_0032_0FDB3D9A3B8ECBB0"/>
+<pb n="33" facs="unknown:002411_0032_0FDB3D9A3B8ECBB0"/>
 and Praiſe of them that do well;</hi> as alſo having in Part ſhewed our Duty, to Kings and Rulers, we come now to treat of thoſe Relati<g ref="char:EOLhyphen"/>ons between Children and Parents,<note place="margin">Duties of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hildren and Par<g ref="char:EOLhyphen"/>ents</note> Servants and Maſters, whoſe reſ<g ref="char:EOLhyphen"/>pective Duties each to the other, are beſt expreſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -620,7 +621,7 @@ and Praiſe of them that do well;</hi> as alſo having in Part ſhewed our Duty,
                <hi>be obedient to them that are your Maſters according to the Fely, with Fear and Tremb<g ref="char:EOLhyphen"/>ling,</hi>
                <note place="margin">Eph. 6, 5, 6, 7, 8.</note> 
                <hi>in Singleneſs of your Hearts as unto Chriſt, not with Eye-Service, as Men-Pleaſers, but as the Servants of Chriſt, doing the Will of God from
-<pb n="34" facs="tcp:002411_0033_0FDB3D9BC50E4020"/>
+<pb n="34" facs="unknown:002411_0033_0FDB3D9BC50E4020"/>
 the Heart, with good Will, doing Service as to the Lord, and not to Men, knowing this whatſoever good Things any Man doth, the ſame ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>all he receive of the Lord, whether he be bond or free:<note place="margin">Col. 3.<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -655,7 +656,7 @@ the Heart, with good Will, doing Service as to the Lord, and not to Men, knowing
                   </gap> ſub<g ref="char:EOLhyphen"/>ject to their own Maſters,</hi>
                <note place="margin">1 Pet. 2.18</note> 
                <hi>with all
-<pb n="35" facs="tcp:002411_0034_0FDB3D9C501FCAD8"/>
+<pb n="35" facs="unknown:002411_0034_0FDB3D9C501FCAD8"/>
 Fear, not only to the good and gen<g ref="char:EOLhyphen"/>tle, but alſo to the froward;</hi>
                <note place="margin">ver. 19.</note> 
                <hi>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -671,7 +672,7 @@ Fear, not only to the good and gen<g ref="char:EOLhyphen"/>tle, but alſo to the
             </p>
             <p>
                <note place="margin">Exhorta<g ref="char:EOLhyphen"/>tions to Parents, and Children.</note>AND as the good Apoſtles were moved in their Day, by the Lord's holy Spirit thus to exhort, ſo in a Meaſure of the ſame Spirit, our Friends and Brethren have in this Day been concerned to deſire that Parents might be exemplary to their Children in Converſation, and in keeping out of the vain Faſhions, Cuſtoms and Pride of the World, by adorning themſelves modeſtly, and in Plainneſs, obſerving the Scrip<g ref="char:EOLhyphen"/>ture-Language, wherein is true Pro<g ref="char:EOLhyphen"/>priety of Speech: And that a god<g ref="char:EOLhyphen"/>ly Care and Concern ſhould be up<g ref="char:EOLhyphen"/>on the Minds of all Parents to watch over their Children with Supplica<g ref="char:EOLhyphen"/>tion
-<pb n="36" facs="tcp:002411_0035_0FDB3D9EC9C66930"/>
+<pb n="36" facs="unknown:002411_0035_0FDB3D9EC9C66930"/>
 to the Lord, that they be not drawn away from the Innocency, Simplicity, and Plainneſs of the Way of Truth, and in a Senſe there<g ref="char:EOLhyphen"/>of to reach the Witneſs in them, that ſo they might feel in their own Spirit a Degree of Fear and Reve<g ref="char:EOLhyphen"/>rence towards God inſtructing them to <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>llow his Council and obey his Voice;<note place="margin">Deut. 6.7.</note> and as the Tribes of <hi>Iſrael</hi> were required of God to teach his Precepts diligently unto their Chil<g ref="char:EOLhyphen"/>dren, and talk of them when they ſate in their Houſes and walked by the Way, and when they laid down, and when they riſed up, ſo ſhould Parents be concerned to ac<g ref="char:EOLhyphen"/>quaint their Children how the Lord led them from one Degree of Faith<g ref="char:EOLhyphen"/>fulneſs to another, in a Denial of the World's corrupt Ways, Language, and Cuſtoms.<note place="margin">Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -686,7 +687,7 @@ to the Lord, that they be not drawn away from the Innocency, Simplicity, and Pla
                   <desc>•••</desc>
                </gap> Children.</p>
             <p>
-               <pb n="37" facs="tcp:002411_0036_0FDB3DA04A86FDF8"/>AND that all Parents be watch<g ref="char:EOLhyphen"/>ful over their Children,<note place="margin">Parents <gap reason="illegible" resp="#PDCC" extent="1 span">
+               <pb n="37" facs="unknown:002411_0036_0FDB3DA04A86FDF8"/>AND that all Parents be watch<g ref="char:EOLhyphen"/>ful over their Children,<note place="margin">Parents <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> their <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -700,13 +701,13 @@ to the Lord, that they be not drawn away from the Innocency, Simplicity, and Pla
                <note place="margin">Not to <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>.</note>AND that it is a very evil Thing for Children to anſwer
-<pb n="38" facs="tcp:002411_0037_0FDB3DA44D72F670"/>
+<pb n="38" facs="unknown:002411_0037_0FDB3DA44D72F670"/>
 their Parents croſly or frowardly; but if they think amiſs of what is propoſed or ſaid, they ſhould an<g ref="char:EOLhyphen"/>ſwer ſoberly and dutifully; for Pa<g ref="char:EOLhyphen"/>rents are to be regarded and obey<g ref="char:EOLhyphen"/>ed next to God, and if Parents be<g ref="char:EOLhyphen"/>come poor or helpleſs, their Chil<g ref="char:EOLhyphen"/>dren ought according to their Abi<g ref="char:EOLhyphen"/>lities to relieve and help them.</p>
             <p>
                <note place="margin">Ordinance of Mar<g ref="char:EOLhyphen"/>riage.</note>IN the next Place, we are to ſhew what our Principles are con<g ref="char:EOLhyphen"/>cerning that holy Ordinance of Mar<g ref="char:EOLhyphen"/>riage, which may be reduced to theſe three Particulars.</p>
             <p>FIRST we ought not to mar<g ref="char:EOLhyphen"/>ry with thoſe who are out of the Belief and Profeſſion of the bleſſed <hi>Truth as it in Jeſus,</hi> or being of another Judgment or Fellowſhip, or pretending to the Truth, or ma<g ref="char:EOLhyphen"/>king Profeſſion thereof, walk not in ſome good Degree anſwerable there<g ref="char:EOLhyphen"/>unto.</p>
             <p>SECONDLY, we ought not to marry by the Prieſts, who take upon them to join People in Mar<g ref="char:EOLhyphen"/>riage without any Command from
-<pb n="39" facs="tcp:002411_0038_0FDB3DA638DADEE0"/>
+<pb n="39" facs="unknown:002411_0038_0FDB3DA638DADEE0"/>
 the Law of God, or Precedent, or Example from the holy Scripture for ſo doing.</p>
             <p>THIRDLY, We ought not to ſuffer ſuch kind of Ma<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
@@ -720,7 +721,7 @@ the Law of God, or Precedent, or Example from the holy Scripture for ſo doing.<
                      <desc>•</desc>
                   </gap>f diffe<g ref="char:EOLhyphen"/>rent Per<g ref="char:EOLhyphen"/>ſwaſion.</note> we ſay, that if ſuch as make Profeſſion with us, and believe in the Light, and own the Doctrines and Principles of Truth, concerning the Spiritual Appearance and Manifeſtation of our Lord and Saviour Jeſus Chriſt, ſhould marry with ſuch as do not ſo profeſs and believe, or with ſuch as profeſs the Truth, and walk not in ſome good Degree anſwerable thereunto, we cannot have Unity with ſuch Marriages.</p>
             <p>But if any ſhould think it ſtrange that we diſlike joining in Marriage
-<pb n="40" facs="tcp:002411_0039_0FDB3DAA0F934630"/>
+<pb n="40" facs="unknown:002411_0039_0FDB3DAA0F934630"/>
 with thoſe that are not of our Pro<g ref="char:EOLhyphen"/>feſſion,<note place="margin">R. B. 210. Mixt Mar<g ref="char:EOLhyphen"/>riages <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> unequal Yoking.</note> tho' ſome of them may o<g ref="char:EOLhyphen"/>therwiſe be of a civil Deportment, we can ſay from the Teſtimony of the Spirit of God in our Hearts, that ſuch mixing in Marriages is an unequal Yoking, and ought not to be ſuffered amongſt us: And if any ſhould think it lawful, yet ſome know by Experience, that it has not been expedient, but very hurtful, and of ill Conſequence to the Parties, as well as a Grief to their honeſt Friends and Relations, and frequent<g ref="char:EOLhyphen"/>ly ends in Woe and Ruin of them<g ref="char:EOLhyphen"/>ſelves and their Children</p>
@@ -737,7 +738,7 @@ with thoſe that are not of our Pro<g ref="char:EOLhyphen"/>feſſion,<note plac
                      <desc>•</desc>
                   </gap>3.</note>AND we find that the Judg<g ref="char:EOLhyphen"/>ment of Truth in the Patriarchs and Prophets was againſt mixt Marria<g ref="char:EOLhyphen"/>ges in their Time, becauſe of the dangerous Effects which attended them, in drawing God's peculiar People into corrupt Language, Hea<g ref="char:EOLhyphen"/>theniſh Cuſtoms, groſs Idolatry, and at Length into a total Separa<g ref="char:EOLhyphen"/>tion from the holy Sanctuary, and Protection of the Almighty.</p>
             <p>
-               <pb n="41" facs="tcp:002411_0040_0FDB3DAB87C3A7D8"/>
+               <pb n="41" facs="unknown:002411_0040_0FDB3DAB87C3A7D8"/>
                <note place="margin">Againſt the Prieſts <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Authority to marry.</note>AS to the Second concerning the Prieſts aſſuming Authority to marry, our concurrent Teſtimony with all our faithful Brethren and Elders, is, and has been, againſt that Uſurpation which ſeems to be an Invention to get Mon<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -755,7 +756,7 @@ with thoſe that are not of our Pro<g ref="char:EOLhyphen"/>feſſion,<note plac
                      <desc>•</desc>
                   </gap>. 376.</note> which the Law cannot make void, nor the Parties themſelves diſſolve by Re<g ref="char:EOLhyphen"/>leaſe, or other mutual Agreement.</p>
             <p>DIVERS Inſtances might be brought where Marriages have been adjudged good in Law,<note place="margin">Mar<g ref="char:EOLhyphen"/>riages good in Law, tho' not ſolem<g ref="char:EOLhyphen"/>niz'd by Priests.</note> tho' they were not ſolemnis'd by Prieſts,
-<pb n="42" facs="tcp:002411_0041_0FDB3DAEAF2DA300"/>
+<pb n="42" facs="unknown:002411_0041_0FDB3DAEAF2DA300"/>
 for Brevity we omit; and ſhall only mention a Cauſe which our honourable Friend and elder Bro<g ref="char:EOLhyphen"/>ther <hi>George Fox</hi> in his <hi>Journal,</hi> p. 249. ſaid was tried in the Aſſizes at <hi>Nottingham</hi> in the Year 1661.<note place="margin">A Law-Caſe. See <hi>Ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>'<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -766,11 +767,11 @@ for Brevity we omit; and ſhall only mention a Cauſe which our honourable Frien
                </gap>d together as Man and Wife about two Years; then the Man died, leaving his Wife with Child, and an Eſtate in Co<g ref="char:EOLhyphen"/>py-hold-Lands: When the Woman was delivered, the Jury preſented the Child Heir, who was accord<g ref="char:EOLhyphen"/>ingly admitted; afterwards one that was near of Kin to the Child's Fa<g ref="char:EOLhyphen"/>ther brought that Suit, thereby in<g ref="char:EOLhyphen"/>tending to deprive the Child of the Inheritance; and to effect this, he would prove the Child illegitimate, alledging the Marriage was not ac<g ref="char:EOLhyphen"/>cording to Law. After the Coun<g ref="char:EOLhyphen"/>cil on both Sides had done plead<g ref="char:EOLhyphen"/>ing,<note place="margin">No Fa<g ref="char:EOLhyphen"/>vourer of <hi>Quakers.</hi>
                </note> Judge <hi>Archer</hi> directed the Ju<g ref="char:EOLhyphen"/>ry to find the Child Heir, which they did accordingly.</p>
             <p>
-               <pb n="43" facs="tcp:002411_0042_0FDB3DB0C5657C28"/>BY this we may underſtand,<note place="margin">Our Me<g ref="char:EOLhyphen"/>thod of marrying.</note> how far we are juſtified in the Me<g ref="char:EOLhyphen"/>thod of conſummating our Mar<g ref="char:EOLhyphen"/>riages by mutual Promiſes, which are made with much Awe and Re<g ref="char:EOLhyphen"/>verence, in the Preſence and Audi<g ref="char:EOLhyphen"/>ence of God's People, at their reli<g ref="char:EOLhyphen"/>gious Aſſemblies. But it is to be underſtood, that tho' we are pre<g ref="char:EOLhyphen"/>ſent at ſuch Solemnities, yet we marry none, but are Witneſſes there<g ref="char:EOLhyphen"/>unto,<note place="margin">We merry none.</note> as any other Spectators may be.</p>
+               <pb n="43" facs="unknown:002411_0042_0FDB3DB0C5657C28"/>BY this we may underſtand,<note place="margin">Our Me<g ref="char:EOLhyphen"/>thod of marrying.</note> how far we are juſtified in the Me<g ref="char:EOLhyphen"/>thod of conſummating our Mar<g ref="char:EOLhyphen"/>riages by mutual Promiſes, which are made with much Awe and Re<g ref="char:EOLhyphen"/>verence, in the Preſence and Audi<g ref="char:EOLhyphen"/>ence of God's People, at their reli<g ref="char:EOLhyphen"/>gious Aſſemblies. But it is to be underſtood, that tho' we are pre<g ref="char:EOLhyphen"/>ſent at ſuch Solemnities, yet we marry none, but are Witneſſes there<g ref="char:EOLhyphen"/>unto,<note place="margin">We merry none.</note> as any other Spectators may be.</p>
             <p>We thus inlarge upon this Head,<note place="margin">Suggeſti<g ref="char:EOLhyphen"/>ons ag<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>nst our Mar<g ref="char:EOLhyphen"/>riages cleared.</note> that none may be impoſed upon by thoſe who inſinuate, that ſuch as are not marry'd by a Prieſt, their Children will be deemed illegiti<g ref="char:EOLhyphen"/>mate;<note place="margin">G. F. Ep. 278.</note> for ſome pretending to be of us, believed thoſe falſe Suggeſtions, or made Uſe of them to colour their ſelfiſh Views, and ſiniſter Ends, and ſo far renounced the Teſtimony of Truth as to be married by Prieſts. Therefore let ſuch weak ignoble Spirits,<note place="margin">Promoters of marry<g ref="char:EOLhyphen"/>ing by Priests to be cenſu<g ref="char:EOLhyphen"/>red.</note> with all thoſe that promote, or are preſent at any ſuch Mar<g ref="char:EOLhyphen"/>riages, be dealt with, and bought
-<pb n="44" facs="tcp:002411_0043_0FDB3DB49EFD8C48"/>
+<pb n="44" facs="unknown:002411_0043_0FDB3DB49EFD8C48"/>
 to repent of their Out-goings, or be cenſured for the ſame.</p>
             <p>AS to the third and laſt Parti<g ref="char:EOLhyphen"/>cular,<note place="margin">Mar<g ref="char:EOLhyphen"/>riages with Per<g ref="char:EOLhyphen"/>ſons pre-engaged, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -779,14 +780,14 @@ to repent of their Out-goings, or be cenſured for the ſame.</p>
                   </gap> to be allow'd.</note> it is our Senſe and Judg<g ref="char:EOLhyphen"/>ment, that none amongſt us move or proceed, in Order to marry with ſuch as are pre-ingaged or contracted to others, before they are duly diſ<g ref="char:EOLhyphen"/>charged or releaſed of that Pre-en<g ref="char:EOLhyphen"/>gagement, and that no ſuch Procedure be made by ſuch as are within the Degrees of Conſanguinity or Affi<g ref="char:EOLhyphen"/>nity, being not allowed by us, or prohibited by the Laws and Uſua<g ref="char:EOLhyphen"/>ges of <hi>England.</hi>
             </p>
             <p>WE do not in the leaſt ſuppoſe, by what we object againſt marrying by the Prieſt,<note place="margin">Mar<g ref="char:EOLhyphen"/>riages by Priests or others not ſuppoſed void.</note> or others differing from our Way, as if their Marriages were void; neither do we take upon us to hinder any to marry otherwiſe than by tenderly adviſing ſuch as are like to go contrary to our Diſ<g ref="char:EOLhyphen"/>cipline, and if they reject our Ad<g ref="char:EOLhyphen"/>vice, we refuſe to be Witneſſes and Concurrers with them, and if they go right, and make regular Steps in
-<pb n="45" facs="tcp:002411_0044_0FDB3DB600CBEF08"/>
+<pb n="45" facs="unknown:002411_0044_0FDB3DB600CBEF08"/>
 their Procedure, to the Satisfaction of the Meetings whereto they be<g ref="char:EOLhyphen"/>long, we allow them to conſummate their Marriages according to the good Order and Method which our Fathers and Elders in the Truth, did at firſt eſtabliſh in the Wiſdom and Power of God.</p>
             <p>AND it has been a conſtant Rule ſince Diſcipline was firſt ſet up amongſt Friends,<note place="margin">Our Mar<g ref="char:EOLhyphen"/>riages to paſs the Men and Womens Meetings. G. F. <hi>Ep.</hi> 282.</note> that all their Marriages ſhould be laid before the Mens and Womens Meetings who were to take Care that ſuch as come before them were clear from all o<g ref="char:EOLhyphen"/>ther Perſons on that Account; and that no Man ſhould ſpeak to a Wo<g ref="char:EOLhyphen"/>man,<note place="margin">Id. 360.</note> in Order to Marriage before he had the Conſent of his own Parents or Guardians, and then ſpo<g ref="char:EOLhyphen"/>ken to her Father and Mother, and had their Conſent; and if ſhe had no Parents alive, but Guardians or Truſtees, then to ſpeak to them and have their Conſent, and pro<g ref="char:EOLhyphen"/>ceed accordingly; and we find the Reaſon of this was, for that ſome
-<pb n="46" facs="tcp:002411_0045_0FDB3DBA85204D38"/>
+<pb n="46" facs="unknown:002411_0045_0FDB3DBA85204D38"/>
 formerly did ſpeak neither to Father nor Mother, till they had drawn out and entangled the Affections of the Daughter, and that brought great Troubles and Diſcontents up<g ref="char:EOLhyphen"/>on the Parent, and amongſt Friends. And therefore this was to be enqui<g ref="char:EOLhyphen"/>red into in the Mens and Womens Meetings, where the Marriages were to be ſpoken of; and ſo it is, or ought to be amongſt us,<note place="margin">Conſent gi<g ref="char:EOLhyphen"/>ven not to be retract<g ref="char:EOLhyphen"/>ed with<g ref="char:EOLhyphen"/>out Care.</note> and if Pa<g ref="char:EOLhyphen"/>rents or Guardians have once con<g ref="char:EOLhyphen"/>ſented or approved of ſuch Addreſ<g ref="char:EOLhyphen"/>ſes, they ought not to retract the ſame without giving ſuch Reaſons as in the Judgment of the Monthly Meeting, whereto they belong, ſhall be ſufficient for ſo doing.</p>
             <p>AND where Men and Women draw out the Affections one of ano<g ref="char:EOLhyphen"/>ther, and after a while go to others,<note place="margin">G. F. <hi>Ep.</hi> 281.</note> and then do the like, this ought to be cenſured as a ſcandalous Practice.</p>
             <p>AND it hath been the early Care,<note place="margin">Second Mar<g ref="char:EOLhyphen"/>riages.</note> and is the decent Practice a<g ref="char:EOLhyphen"/>mongſt Friends, not to conſummate Second Marriages ſooner than a
-<pb n="47" facs="tcp:002411_0046_0FDB3DBA882743D8"/>
+<pb n="47" facs="unknown:002411_0046_0FDB3DBA882743D8"/>
 Year after the Death of Husband or Wife.<note place="margin">
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
@@ -800,7 +801,7 @@ Year after the Death of Husband or Wife.<note place="margin">
                </gap> formal Hypocrite may go far that Way,<note place="margin">Hypo<g ref="char:EOLhyphen"/>crites.</note> and not diſcover himſelf till his Turn is ſerved. Therefore our Deſires are, that in this important Affair of Marriage a godly Care may come upon all ſuch as may be concerned therein,<note place="margin">A godly Care to <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> a Spiritual Joining in Marriage.</note> as it has been and is upon the Faithful to know their Hearts and Spirits truly and ſincere<g ref="char:EOLhyphen"/>ly given up in Chaſtity and Purity of Love one towards another, with a free Reſignation to the Will of God, and holy Reſolutions to ſerve, obey, and follow him thro' the va<g ref="char:EOLhyphen"/>rious Exerciſes, Difficulties and Trials which may attend them in a married State, and as they ſtand in his Council, they come to know
-<pb n="48" facs="tcp:002411_0047_0FDB3DBC033C9530"/>
+<pb n="48" facs="unknown:002411_0047_0FDB3DBC033C9530"/>
 a holy joining in Spirit, and the Bleſ<g ref="char:EOLhyphen"/>ſing from above to deſcend upon them in their Undertaking; and when they come to enter into the Marriage-Covenant, they will ac<g ref="char:EOLhyphen"/>cording to their Growth in the bleſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>d Truth, be ſenſible of God's heavenly and Spiritual Joyning; this is the honourable Marriage that is ſanctified by the Spirit of God, and owned by his People.</p>
